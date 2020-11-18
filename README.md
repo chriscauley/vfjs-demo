@@ -1,4 +1,6 @@
-# vfjs
+# vfjs-demo
+
+This is a demo project to test vue-form-json-schema using vue 3. Currently in an unworking state. If you install+serve, no form will render and there will be an error in the console.
 
 ## Project setup
 ```
